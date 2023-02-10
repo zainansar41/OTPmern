@@ -1,0 +1,6 @@
+body{
+    background-image: url('./assets/Background.png');
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
